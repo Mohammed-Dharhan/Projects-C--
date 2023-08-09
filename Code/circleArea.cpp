@@ -31,5 +31,6 @@ int main(){
 
     Circle obj(radius);
     Utility x1;
-    std::cout<<"The circle area is: "<<x1.calculateArea(obj)<<"cm2"<<std::endl
+    std::cout<<"The circle area is: "<<x1.calculateArea(obj)<<"cm2"<<std::endl;
+    return 0;
 }
